@@ -6,11 +6,10 @@
 
 ## 📌 About Me  
 
-Hi, I’m **Myriam Touil**, a recent graduate in **Data Science and Artificial Intelligence** with a strong background in **mathematical modeling, machine learning, and deep learning**.  
-I’m passionate about turning complex data into **intelligent, actionable solutions** that foster innovation and guide smarter decision-making.  
+Hello, I’m Myriam Touil, a recent graduate in Data Science and Artificial Intelligence, with a solid foundation in mathematical modeling, machine learning, and deep learning. I am passionate about transforming complex data into intelligent, actionable solutions that drive innovation and support decision-making.
 
-- 💡 Skilled in **Generative AI**, **MLOps**, and building **automated AI solutions**  
-- 🤖 Experienced in **computer vision, natural language processing**, and **cloud deployment**  
+- 💡 My expertise covers **Generative AI**, **MLOps**, and the design of **automated AI solutions**.
+- 🤖 I also have solid experience in **computer vision**, **natural language processing**, and **cloud-based deployment**.
 - 🌱 Curious, analytical, and always motivated to learn new technologies  
 - 🎯 Aspiring to contribute to **innovative, data-driven projects** and grow as a data scientist  
 
